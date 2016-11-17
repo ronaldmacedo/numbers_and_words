@@ -9,7 +9,7 @@ es:
     twenty: VEINTE
     hundreds: [CIENTO, DOSCIENTOS, TRESCIENTOS, CUATROCIENTOS, QUINIENTOS, SEISCIENTOS, SETECIENTOS, OCHOCIENTOS, NOVECIENTOS]
     one_hundred: CIEN
-    mega: [_, THOUSAND, MILLION, BILLION, TRILLION, QUADRILLION, QUINTILLION, SEXTILLION, SEPTILLION, OCTILLION, NONILLION, DECILLION, UNDECILLION, DUODECILLION, TREDECILLION, QUATTUORDECILLION]
+    mega: [_, thousand, million, billion, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion, undecillion, duodecillion, tredecillion, quattuordecillion]
     thousand: MIL
     million:
       one: MILLÓN
