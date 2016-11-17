@@ -1,42 +1,42 @@
 es:
   numbers:
-    one: un
-    ones: [cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve]
-    one_twenties: ún
-    ones_twenties: [_, uno, dós, trés, cuatro, cinco, séis, siete, ocho, nueve]
-    teens: [diez, once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve]
-    tens: [_, diez, veinti, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa]
-    twenty: veinte
-    hundreds: [ciento, doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos]
-    one_hundred: cien
-    mega: [_, thousand, million, billion, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion, undecillion, duodecillion, tredecillion, quattuordecillion]
-    thousand: mil
+    one: UN
+    ones: [CERO, UNO, DOS, TRES, CUATRO, CINCO, SEIS, SIETE, OCHO, NUEVE]
+    one_twenties: ÚN
+    ones_twenties: [_, UNO, DÓS, TRÉS, CUATRO, CINCO, SÉIS, SIETE, OCHO, NUEVE]
+    teens: [DIEZ, ONCE, DOCE, TRECE, CATORCE, QUINCE, DIECISÉIS, DIECISIETE, DIECIOCHO, DIECINUEVE]
+    tens: [_, DIEZ, VEINTI, TREINTA, CUARENTA, CINCUENTA, SESENTA, SETENTA, OCHENTA, NOVENTA]
+    twenty: VEINTE
+    hundreds: [CIENTO, DOSCIENTOS, TRESCIENTOS, CUATROCIENTOS, QUINIENTOS, SEISCIENTOS, SETECIENTOS, OCHOCIENTOS, NOVECIENTOS]
+    one_hundred: CIEN
+    mega: [_, THOUSAND, MILLION, BILLION, TRILLION, QUADRILLION, QUINTILLION, SEXTILLION, SEPTILLION, OCTILLION, NONILLION, DECILLION, UNDECILLION, DUODECILLION, TREDECILLION, QUATTUORDECILLION]
+    thousand: MIL
     million:
-      one: millón
-      other: millones
-    billion: mil millones
+      one: MILLÓN
+      other: MILLONES
+    billion: MIL MILLONES
     trillion:
-      one: billón
-      other: billones
-    quadrillion: mil billones
+      one: BILLÓN
+      other: BILLONES
+    quadrillion: MIL BILLONES
     quintillion:
-      one: trillón
-      other: trillones
-    sextillion: mil trillones
+      one: TRILLÓN
+      other: TRILLONES
+    sextillion: MIL TRILLONES
     septillion:
-      one: cuatrillón
-      other: cuatrillones
-    octillion: mil cuatrillones
+      one: CUATRILLÓN
+      other: CUATRILLONES
+    octillion: MIL CUATRILLONES
     nonillion:
-      one: quintillón
-      other: quintillones
-    decillion: mil quintillones
+      one: QUINTILLÓN
+      other: QUINTILLONES
+    decillion: MIL QUINTILLONES
     undecillion:
-      one: sextillón
-      other: sextillones
-    duodecillion: mil sextillones
+      one: SEXTILLÓN
+      other: SEXTILLONES
+    duodecillion: MIL SEXTILLONES
     tredecillion:
-      one: septillón
-      other: septillones
-    quattuordecillion: mil septillones
-    union: y
+      one: SEPTILLÓN
+      other: SEPTILLONES
+    quattuordecillion: MIL SEPTILLONES
+    union: Y
